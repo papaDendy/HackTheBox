@@ -1,0 +1,8 @@
+# Nmap 7.98 scan initiated Wed Feb 18 11:25:19 2026 as: /usr/lib/nmap/nmap --privileged -p- -sS -T4 --min-rate 1000 -oN full-tcp.txt <TARGET_IP>
+Nmap scan report for <TARGET_IP>
+Host is up (0.16s latency).
+Not shown: 65534 closed tcp ports (reset)
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+# Nmap done at Wed Feb 18 11:26:49 2026 -- 1 IP address (1 host up) scanned in 90.21 seconds
