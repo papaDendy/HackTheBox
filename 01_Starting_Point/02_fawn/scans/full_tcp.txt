@@ -1,0 +1,8 @@
+# Nmap 7.98 scan initiated Wed Feb 18 12:02:04 2026 as: /usr/lib/nmap/nmap --privileged -p- -sS -T4 --min-rate 1000 -oN full_tcp.txt <TARGET_ID>
+Nmap scan report for <TARGET_ID>
+Host is up (0.17s latency).
+Not shown: 65534 closed tcp ports (reset)
+PORT   STATE SERVICE
+21/tcp open  ftp
+
+# Nmap done at Wed Feb 18 12:03:36 2026 -- 1 IP address (1 host up) scanned in 92.53 seconds
