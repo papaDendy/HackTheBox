@@ -1,7 +1,5 @@
 # <Machine Name> — Lab Notes
 
-# <Machine Name> — Lab Notes
-
 ## Context
 - Platform: (HTB / THM / VulnHub / Local VM)
 - IP: <target_ip>

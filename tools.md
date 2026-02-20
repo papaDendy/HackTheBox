@@ -1,1 +1,1 @@
-nmap, netcat, gobuster, ffuf, hydra (sparingly)
+nmap, netcat, gobuster, ffuf, hydra (sparingly),

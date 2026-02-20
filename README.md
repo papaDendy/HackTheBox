@@ -44,6 +44,7 @@ templates/ — шаблоны для машин
 - Fawn ✅
 - Dancing ✅
 - Redeemer ✅
+- Appointment ✅
 
 ### Easy
 - In progress
